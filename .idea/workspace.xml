@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6dcafdc-be0a-4bcc-9954-2d95dd1d9f3d" name="Changes" comment="second-find" />
+    <list default="true" id="d6dcafdc-be0a-4bcc-9954-2d95dd1d9f3d" name="Changes" comment="second-find">
+      <change afterPath="$PROJECT_DIR$/2-hexlet-git/binary_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hexlet-git/happ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hexlet-git/happy_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hexlet-git/happy_tichet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +29,7 @@
         <entry key="$PROJECT_DIR$/1-BasicPhyton" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/1-BasicPhyton" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2-hexlet-git" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -48,30 +54,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.10-solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15-solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16-solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17-solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.18-solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.19-solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.20-solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.21-solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.22-solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4-string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8-solution.executor&quot;: &quot;Run&quot;,
-    &quot;Python.@nic1137171.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main(@nic1137171).executor&quot;: &quot;Run&quot;,
-    &quot;Python.second_find.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/melnikov.nn/Documents/phyton/Lessons/1-BasicPhyton&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.10-solution.executor": "Run",
+    "Python.15-solution.executor": "Run",
+    "Python.16-solution.executor": "Run",
+    "Python.17-solution.executor": "Run",
+    "Python.18-solution.executor": "Run",
+    "Python.19-solution.executor": "Run",
+    "Python.20-solution.executor": "Run",
+    "Python.21-solution.executor": "Run",
+    "Python.22-solution.executor": "Run",
+    "Python.4-string.executor": "Run",
+    "Python.8-solution.executor": "Run",
+    "Python.@nic1137171.executor": "Run",
+    "Python.happ.executor": "Run",
+    "Python.main(@nic1137171).executor": "Run",
+    "Python.second_find.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/melnikov.nn/Documents/phyton/Lessons/1-BasicPhyton"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\melnikov.nn\Documents\phyton\Lessons\1-BasicPhyton" />
